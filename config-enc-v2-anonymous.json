@@ -1,0 +1,4 @@
+{
+  "API_URL": "https://api-anonymous.engstd.xyz/",
+  "SOCKET_URL": "wss://sock-anonymous.engstd.xyz"
+}
